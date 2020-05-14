@@ -1,12 +1,12 @@
 {
   "name": "package-startup",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "",
   "author": "<250989770@qq.com>",
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/finoer/package-startup"
   },
   "engines": {
     "node": ">=10.13.0",
