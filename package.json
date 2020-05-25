@@ -58,7 +58,6 @@
     "@babel/core": "^7.4.3",
     "@commitlint/cli": "^7.1.2",
     "@commitlint/config-conventional": "^7.1.2",
-    "@microsoft/tsdoc": "^0.12.19",
     "@types/axios": "^0.14.0",
     "@types/jest": "^23.3.2",
     "@types/node": "^10.14.8",
