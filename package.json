@@ -2,7 +2,7 @@
   "name": "package-startup",
   "version": "1.0.0",
   "description": "",
-  "author": "<250989770@qq.com>",
+  "author": "",
   "keywords": [],
   "repository": {
     "type": "git",
@@ -33,10 +33,6 @@
     "commit": "git-cz",
     "push": "git add . && npm run commit && git push",
     "_publish": "npm run build && npm version patch -f && npm publish && npm run push"
-  },
-  "prettier": {
-    "semi": false,
-    "singleQuote": true
   },
   "lint-staged": {
     "{src,test}/**/*.ts": [
