@@ -14,7 +14,7 @@ const filePath = 'dist/'+pkg.name+'.';
 console.log(pkg.name)
 
 export default {
-  input: `src/${libraryName}.ts`,
+  input: `src/index.ts`,
   output: [
     { 
       file: pkg.main, 
