@@ -13,10 +13,10 @@
     "npm": ">= 6.0.0"
   },
   "license": "MIT",
-  "main": "dist/package-startup.umd.min.js",
+  "main": "dist/src/index.js",
   "module": "dist/package-startup.es.js",
   "cjsmodule": "dist/package-startup.cjs.js",
-  "typings": "dist/types/package-startup.d.ts",
+  "typings": "dist/src/index.d.ts",
   "files": [
     "dist",
     "src"
