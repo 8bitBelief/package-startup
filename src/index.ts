@@ -1,9 +1,9 @@
-// import HelloWorld from './HelloWorld'
+import HelloWorld from './HelloWorld'
 
-class A {
+class Startup {
   constructor() {
-    console.log('初始化startup2222')
+    console.log('初始化startup 越祈')
   }
 }
 
-export default A
+export { Startup, HelloWorld }
