@@ -42,6 +42,7 @@ module.exports = {
     // allow debugger during development
     'no-debugger': process.env.NODE_ENV === 'production' ? 'error' : 'off',
     "linebreak-style": ["off", "unix"],
-    "prettier/prettier": "error"
+    "prettier/prettier": "error",
+    'prefer-const': 0
   }
 }
